@@ -1,3 +1,3 @@
 # Am Kabutzenhof
 
-* Hugo - Static Website amkabutzenhof.de
+Hugo - Static Website amkabutzenhof.de
