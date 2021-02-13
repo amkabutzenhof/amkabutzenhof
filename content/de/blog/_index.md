@@ -1,6 +1,6 @@
 ---
-title: "Blog"
+title: "Neuigkeiten"
 weight: 20
 ---
 
-Ein Einleitungstext für meinen Blog
+Hier sind einige Informationen und Neuigkeiten gesammelt.
