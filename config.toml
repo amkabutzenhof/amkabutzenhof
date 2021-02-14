@@ -120,8 +120,8 @@ DefaultContentLanguage = "de"          # Default language for multilingual sites
         languageCode     = "de"
         contentDir       = "content/de"
         weight           = 2
-        title            = "Vorstellung"
+        title            = "Am Kabutzenhof"
         [languages.de.params]
             dateFormat   = "2. January 2006"
-            description  = "Beschreibung der Webseite"
+            description  = "Rostock - KTV - Am Kabutzenhof"
             # footerText   = ""
