@@ -1,4 +1,4 @@
-baseURL = "https://amkabutzenhof.de/"  # Your domain name. Must end with "/"
+baseURL = "https://www.amkabutzenhof.de/"  # Your domain name. Must end with "/"
 theme = "introduction"
 DefaultContentLanguage = "de"          # Default language for multilingual sites
 # disqusshortname = ""                 # https://gohugo.io/content-management/comments
