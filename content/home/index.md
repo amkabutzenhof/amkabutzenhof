@@ -1,9 +1,8 @@
 ---
 title: "Am Kabutzenhof"
-headless: true
+headless: false
 ---
 
-Informationen zur Straße "Am Kabutzenhof" und der Kröpeliner-Tor-Vorstadt (KTV) in [Hanse- und Universitätstadt Rostock](https://www.rostock.de).
-
+Informationen zur Straße "Am Kabutzenhof" und der Kröpeliner-Tor-Vorstadt (KTV) in der [Hanse- und Universitätstadt Rostock](https://www.rostock.de).<br><br>
  
 ![Banner AmKabutzenhof.DE](/img/Banner-AmKabutzenhof.png)
