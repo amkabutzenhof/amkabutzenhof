@@ -1,7 +1,14 @@
 ---
-title: "Haftungsausschluss und Datenschutz"
+title: "Am Kabutzenhof"
 date: 2021-02-14T07:25:39+01:00
 ---
+
+## Haftung und Datenschutz
+
+### Impressum
+
+Angaben gemäß § 5 TMG und verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
+Siehe [Kontaktdaten](/#contact)
 
 ### Haftung für Inhalte
 
