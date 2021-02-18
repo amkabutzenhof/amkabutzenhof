@@ -1,5 +1,5 @@
 ---
-title: "Am Kabutzenhof 08a"
+title: "Am Kabutzenhof - Haus 8a"
 date: 2021-02-16T05:20:39+01:00
 ---
 

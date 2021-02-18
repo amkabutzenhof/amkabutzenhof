@@ -36,6 +36,7 @@ Versorgung
 Weiteres
 
 * [Opennet Initiative e.V.](https://www.opennet-initiative.de/), freies Bürgernetz auf WLAN-Basis
+* [Rostocker Haus- und Grundeigentümerverein e.V.](http://www.haus-und-grund-rostock.de)
 * [Hansestadt Rostock](https://www.rostock.de)
 * [Wikipedia: Kröpeliner-Tor-Vorstadt](https://de.wikipedia.org/wiki/Kröpeliner-Tor-Vorstadt)
 * [Historische Bauwerke in der KTV](http://www.mv-terra-incognita.de/beitraege/denkmale/karte/kroepeliner.htm)
