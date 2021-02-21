@@ -1,6 +1,6 @@
 ---
-title: "Kab.hof 01"
-weight: 2
+title: "Am Kabutzenhof 1"
+weight: 11
 ---
 
-Am Kabutzenhof - Haus Nr. 1
+Haus Nr. 1
