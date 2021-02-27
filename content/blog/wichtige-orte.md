@@ -33,6 +33,13 @@ Versorgung
 * [Asia Markt "Thang Long](http://www.asia-thanglong.de), gelegen an der Doberaner Straße
 * Netto Discounter, Zugang über die Borwinstraße
 
+Ärzte
+
+* [Kleintierpraxis Henriette Bendlin](https://tierarzt-ktv.de) - im Eckhaus Am Kabutzenhof 38a / Borwinstraße 12
+* Psychotherapie-Praxis Dipl.-Psych. Christine Will - im Eckhaus Am Kabutzenhof / Jahnstraße 12
+* Psychotherapie-Praxis Dipl.-Psych. Henryk Zamorski - im Eckhaus Am Kabutzenhof / Patriotischer Weg 70
+* [Psychotherapie-Praxis Dipl.-Psych. Anne M. Rafael](http://www.praxis-raphael.de) - ebenfalls im Eckhaus Am Kabutzenhof / Patriotischer Weg 70
+
 Weiteres
 
 * [Opennet Initiative e.V.](https://www.opennet-initiative.de/), freies Bürgernetz auf WLAN-Basis
