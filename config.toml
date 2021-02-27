@@ -50,6 +50,10 @@ DefaultContentLanguage = "de"          # Default language for multilingual sites
         url = "https://www.openstreetmap.org/#map=16/54.0924/12.1108"
         icon = "map-marked"
         icon_pack = "fas"
+    [[params.social]]
+        url = "https://github.com/amkabutzenhof"
+        icon = "github"
+        icon_pack = "fab"
 
 # If you don't want to use the default menu, you can define one by yourself
 # [[menu.main]]
