@@ -1,5 +1,5 @@
 ---
-title: "Doberaner Straße 66"
+title: "Doberaner Straße 106"
 weight: 36
 ---
 
